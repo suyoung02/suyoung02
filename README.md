@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e4787531zyjnq7d7lle79ezu8i2hs5yi4h3dhwvc0xn&rid=giphy.gif&ct=s" width="100"/>
 </div>
+
+---
+### 👨‍💻 About me:
+I'm student of US-VNUHCM
+- 💻 Now i'm learning HTML, CSS, JavaScript and Java for Springboot web development.
+- 🔥 My goal to become a Full-Stack developer and higher project manager.
