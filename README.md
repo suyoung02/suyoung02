@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 I'm student of US-VNUHCM
 - 💻 Now i'm learning HTML, CSS, JavaScript and Java for Springboot web development.
 - 🔥 My goal to become a Full-Stack developer and higher project manager.
+
+---
+### 🛠️: Languages and Tools:
+<div>
+  <img src"https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
