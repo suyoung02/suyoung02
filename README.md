@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 ### 👨‍💻 About me:
 I'm student of US-VNUHCM
-- 💻 Now i'm learning HTML, CSS, JavaScript and Java for Springboot web development.
+- 💻 Currently i'm learning HTML, CSS, JavaScript and Java for Springboot web development.
 - 🔥 My goal to become a Full-Stack developer and higher project manager.
 
 ---
